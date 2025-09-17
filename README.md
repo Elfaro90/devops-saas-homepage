@@ -44,7 +44,7 @@ A modern, responsive SaaS application homepage built with HTML, CSS, and JavaScr
 
 1. **Fork or Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/devops-saas-homepage.git
+   git clone https://github.com/Elfaro90/devops-saas-homepage.git
    cd devops-saas-homepage
    ```
 
@@ -63,7 +63,7 @@ A modern, responsive SaaS application homepage built with HTML, CSS, and JavaScr
    - The workflow will automatically deploy your site
 
 4. **Access your site**
-   - Your site will be available at: `https://yourusername.github.io/devops-saas-homepage`
+   - Your site will be available at: `https://elfaro90.github.io/devops-saas-homepage`
 
 ### Method 2: Manual Deployment
 
@@ -83,8 +83,8 @@ A modern, responsive SaaS application homepage built with HTML, CSS, and JavaScr
 Edit the CSS variables in `styles.css`:
 ```css
 :root {
-  --primary-color: #2563eb;
-  --secondary-color: #64748b;
+  --primary-color: #3b82f6;
+  --secondary-color: #94a3b8;
   --accent-color: #fbbf24;
 }
 ```
@@ -131,7 +131,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/devops-saas-homepage/issues) page
+1. Check the [Issues](https://github.com/Elfaro90/devops-saas-homepage/issues) page
 2. Create a new issue with detailed information
 3. Contact: your-email@example.com
 
@@ -140,6 +140,7 @@ If you encounter any issues or have questions:
 - **v1.0.0**: Initial release with core features
 - **v1.1.0**: Added mobile menu and improved animations
 - **v1.2.0**: Enhanced accessibility and performance
+- **v1.3.0**: Dark theme implementation
 
 ---
 
