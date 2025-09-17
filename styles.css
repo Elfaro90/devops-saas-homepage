@@ -100,7 +100,7 @@ body {
 
 .btn-primary:hover {
     background: #2563eb;
-    transform: none;
+    transform: translateY(0 px);
 }
 
 .btn-secondary {
