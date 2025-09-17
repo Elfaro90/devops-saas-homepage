@@ -100,7 +100,6 @@ body {
 
 .btn-primary:hover {
     background: #2563eb;
-    transform: translateY(-2px);
 }
 
 .btn-secondary {
@@ -157,7 +156,6 @@ body {
     background: #3b82f6;
     color: white;
     border: none;
-    transform: translateY(-2px);
 }
 
 .btn-large {
